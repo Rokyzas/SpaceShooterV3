@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpaceShooterV3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SpaceShooterV3_jar</output-path>
+    <root id="archive" name="SpaceShooterV3.jar">
+      <element id="module-output" name="SpaceShooterV3" />
+    </root>
+  </artifact>
+</component>
